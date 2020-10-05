@@ -1,4 +1,7 @@
 # Kahlo
+La Dataset est disponible à cette adresse : https://codalab.lri.fr/my/datasets/download/bea8e90f-8dd6-429d-8818-ec5af7df59a6
+
+La page du challenge est disponlible ici : https://codalab.lri.fr/competitions/404#learn_the_details (le classement est erroné car notre modèle est trop long pour la plateforme)
 
 Le dossier Prepross_data contient notre code (qui a été uploadé sur Codalab) concernant le projet des données preprocessées par les M2.
 

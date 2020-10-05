@@ -9,7 +9,7 @@ Le dossier RAW_data, contient le même classifieur que le dossier Prepross mais 
 
 Raphael Cohen et Raphael Raimbaud ont fait intégralement le préprocessing de la version RAW (preprocessing.py).
 
-Mohammed Lansari et Yanis Bouzid ont fait la partie Classification des deux versions (model.py).
+Mohammed Lansari et Yanis Bouzid ont fait la partie Classification des deux versions (Prepross_data_FINAL/sample_code_submission/model.pymodel.py).
 
 Dylan Mills et Nathan Lespine on effectuer la partie visualisation (quelques bouts de code sur model.py et la majorité sur le jupyternotebook) avec l'aide de Mohammed et Yanis pour les affichages du CNN.
 
